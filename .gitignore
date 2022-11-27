@@ -1,1 +1,4 @@
 node_modules
+dist
+prisma/migrations/*.sql
+.env
